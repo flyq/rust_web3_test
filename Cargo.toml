@@ -8,4 +8,5 @@ edition = "2018"
 
 [dependencies]
 cita-web3 = { git = "https://github.com/flyq/cita-common", branch = "develop" }
-web3 = "0.11.0"
+cita-tool = { git = "https://github.com/citahub/cita-cli" }
+cita-types = { git = "https://github.com/flyq/cita-common", branch = "develop" }
